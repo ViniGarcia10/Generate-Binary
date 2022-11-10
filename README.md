@@ -16,7 +16,9 @@
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Author](#Author)
+:small_blue_diamond: [Author](#author)
+
+:small_blue_diamond: [Licença](#licença)
 
 
 ## Descrição do projeto 
@@ -30,19 +32,19 @@
 :heavy_check_mark: Gerando o seu binário
 
 <div align="center"> 
-	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-1.PNG" />
+	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-1.png" />
 </div>
 
 :heavy_check_mark: Mentalize o seu desejo em maioria zeros ou uns. 
 
 <div align="center"> 
-	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-3.PNG" />
+	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-3.png" />
 </div>
 
 :heavy_check_mark: Apresentação do resultado Final.  
 
 <div align="center"> 
-	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-2.PNG" />
+	<img alt="gerador de binarios" title="gerador de binarios" src="./.github/banner-2.png" />
 </div>
 
 ## Pré-requisitos
