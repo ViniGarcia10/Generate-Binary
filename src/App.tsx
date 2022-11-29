@@ -63,7 +63,9 @@ function App() {
             ></textarea>
           )) || (
             <div id="container-mentaliza">
-              <h2>{!!numbers?.listNumbers?.length && 'Mentaliza...' || '---'}</h2>
+              <h2>
+                {(!!numbers?.listNumbers?.length && "Mentaliza...") || "---"}
+              </h2>
             </div>
           )}
         </div>
@@ -71,10 +73,10 @@ function App() {
         {isActiveView && (
           <div>
             <p>
-              <b>{String(numbers.qntZero)+"%"}</b> de números 0
+              <b>{String(numbers.qntZero) + "%"}</b> de números 0
             </p>
             <p>
-              <b>{String(numbers.qntOne)+"%"}</b> de números 1
+              <b>{String(numbers.qntOne) + "%"}</b> de números 1
             </p>
           </div>
         )}
@@ -86,7 +88,7 @@ function App() {
           type="button"
           onClick={handleGenerateNumbers}
         >
-          Gerar
+          Gerar Números
         </button>
         {!!numbers?.listNumbers?.length && (
           <button
@@ -99,7 +101,7 @@ function App() {
         )}
 
         <button type="reset" onClick={handleLimparNumbers}>
-          Limpar
+          Reiniciar
         </button>
       </div>
     </div>
