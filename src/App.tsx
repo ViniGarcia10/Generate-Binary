@@ -99,10 +99,6 @@ function App() {
             Mostrar
           </button>
         )}
-
-        <button type="reset" onClick={handleLimparNumbers}>
-          Reiniciar
-        </button>
       </div>
     </div>
   );
